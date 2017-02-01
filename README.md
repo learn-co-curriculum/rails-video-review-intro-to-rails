@@ -1,10 +1,10 @@
 ## Intro to Rails- Overview
-This video review lesson covers many of the concepts that you've learned about in this topic so far. To get the most out of these videos we recommend that you complete the Readings and Labs that come before it. 
+This video review lesson covers many of the concepts that you've learned about in this topic so far. To get the most out of these videos, first complete the Readings and Labs that come before it. 
 
 ## Summary
 
-This video covers the flow of logic and the process it takes to get from the view to the browser. 
-First we need a model then the controller- its action, the routes that match the controller action and the view that it is rendered to. This is then sent to the server which returns the url in the browser. 
+This video covers the flow of logic and the process it takes to get from the view to the browser. First, we need a model, then, the controller: its action, the routes that match the controller action and the view to which it is rendered. This is then sent to the server, which returns the url in the browser.
+
 Rails has the following components:
 ActiveRecordModels - comprises methods for helping build your rails application
 ActionController - for controlling the flow of data between the model and the view
@@ -44,3 +44,5 @@ Do you think this video would be better if it were somewhere else in the curricu
 Any other comments or feedback you have? Raise an issue and let us know. 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/rails-video-review-intro-to-rails'>Rails Video Review: Intro to Rails </a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/rails-video-review-intro-to-rails'>Video Review: Intro to Rails</a> on Learn.co and start learning to code for free.</p>
