@@ -13,3 +13,6 @@ Rails has the following components:
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/KKQ8lpEyw2g?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/rails-video-review-intro-to-rails'>Rails Video Review: Intro to Rails</a> on Learn.co and start learning to code for free.</p>
+
+## Resources
+- [Rails Application Basics](https://github.com/learn-co-curriculum/rails-application-basics-readme)
