@@ -15,5 +15,4 @@ Rails has the following components:
 <p class='util--hide'>View <a href='https://learn.co/lessons/rails-video-review-intro-to-rails'>Rails Video Review: Intro to Rails</a> on Learn.co and start learning to code for free.</p>
 
 ## Resources
-- [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
-- [Rails directory structure](https://www.sitepoint.com/a-quick-study-of-the-rails-directory-structure/)
+- [Rails Application Basics](https://github.com/learn-co-curriculum/rails-application-basics-readme)
